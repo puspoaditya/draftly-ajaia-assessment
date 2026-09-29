@@ -14,7 +14,7 @@
 
 - Live product: **https://draftly-ajaia-assessment-woad.vercel.app**
 - Source repository: **https://github.com/puspoaditya/draftly-ajaia-assessment**
-- Walkthrough video: **ADD PUBLIC VIDEO URL HERE**
+- Walkthrough video: **https://youtu.be/4dtOgTFlVfY**
 - Google Drive folder: **ADD GOOGLE DRIVE FOLDER URL HERE**
 
 ## Reviewer flow
