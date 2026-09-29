@@ -2,6 +2,8 @@
 
 Draftly is a lightweight collaborative document editor built for the Ajaia AI-Native Full Stack Developer assessment. It focuses on a polished end-to-end slice: create and edit rich-text documents, import text files, persist work, and share documents between two demo users.
 
+**Live product:** https://draftly-ajaia-assessment-woad.vercel.app
+
 ## Features
 
 - Create, rename, edit, save, and reopen documents
