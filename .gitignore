@@ -1,0 +1,9 @@
+node_modules/
+dist/
+data/db.json
+.env
+.env.local
+.DS_Store
+npm-debug.log*
+Puspo Dwi Aditya AI Native Full Stack Engineer Resume 1.0.docx
+Puspo Dwi Aditya AJAIA.pdf

@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: draftly-ajaia
+    runtime: node
+    plan: free
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/users
+    envVars:
+      - key: NODE_VERSION
+        value: 22
